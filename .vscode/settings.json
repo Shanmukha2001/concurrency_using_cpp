@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "atomic": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "stdexcept": "cpp"
+    }
+}
