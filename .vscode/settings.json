@@ -6,6 +6,8 @@
         "atomic": "cpp",
         "condition_variable": "cpp",
         "future": "cpp",
-        "stdexcept": "cpp"
+        "stdexcept": "cpp",
+        "coroutine": "cpp",
+        "ostream": "cpp"
     }
 }
