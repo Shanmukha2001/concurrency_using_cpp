@@ -20,8 +20,8 @@ public:
 		}
 	}
 
-	thread_guard(thread_guard& const) = delete;
-	thread_guard& operator= (thread_guard& const) = delete;
+	thread_guard(thread_guard&) = delete;
+	thread_guard& operator= (thread_guard&) = delete;
 };
 
 class join_threads {
